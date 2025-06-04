@@ -1,4 +1,6 @@
 ruleset=☁️ Proxy,https://raw.githubusercontent.com/PoeMyintzu/Demo/main/facebook.txt
+ruleset=REJECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+ruleset=REJECT,https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
 ruleset=DIRECT,https://raw.githubusercontent.com/PoeMyintzu/Demo/main/google.txt
 ruleset=DIRECT,https://raw.githubusercontent.com/PoeMyintzu/Demo/main/mm-ip.list
 ruleset=DIRECT,[]GEOIP,MM
